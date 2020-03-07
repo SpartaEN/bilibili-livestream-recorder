@@ -1,0 +1,5 @@
+/.vscode
+/node_modules
+/settings.js
+*.log
+*.mp4

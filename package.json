@@ -1,0 +1,21 @@
+{
+  "name": "bilibili-livestream-recorder",
+  "version": "1.0.0",
+  "description": "A simple bilibili livestream recorder wirtten with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Sparta_EN",
+    "email": "nya@sparta-en.org",
+    "url": "http://blog.sparta-en.org/"
+  },
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {}
+}
